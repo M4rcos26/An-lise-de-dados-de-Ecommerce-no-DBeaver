@@ -72,7 +72,7 @@ Descrição:
 - Objetivo: Apoiar campanhas de reativação de clientes.
 
 ### Consulta 8 – Produtos com Estoque Baixo
-![](imagens/consulta_8.png)
+![](imagens/consluta_8.png)
 
 Descrição:
 - Filtra produtos cujo estoque está abaixo de um limite crítico.
